@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "kubejs/server_scripts/jsconfig.json"
+hash = "bda1bdb91bec3fa51f1b7603c582604ab876e89678982e35d8722138e60c8574"
+
+[[files]]
+file = "kubejs/server_scripts/main.js"
+hash = "ba18e77947575b2325841b214e1271b052af7969c4d36fbbdbe6b4b1c86003f2"
+
+[[files]]
 file = "mods/apotheosis.pw.toml"
 hash = "89213937ee347c19bde57055ab13a93e9dd84978363c95810e34dbf44d44e1bc"
 metafile = true
