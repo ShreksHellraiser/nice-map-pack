@@ -9,6 +9,16 @@ file = "kubejs/server_scripts/main.js"
 hash = "ba18e77947575b2325841b214e1271b052af7969c4d36fbbdbe6b4b1c86003f2"
 
 [[files]]
+file = "mods/advancedperipherals.pw.toml"
+hash = "37a7a5a7d013603e5b1ea8a472f318b8e0dce6a78abd163e851721415263a519"
+metafile = true
+
+[[files]]
+file = "mods/alexs-mobs(1.21.1).pw.toml"
+hash = "fb53bc6c0d543cd7e88a5faba1e3235dca6c556e0cf8c1a534bbdec581c3c2f8"
+metafile = true
+
+[[files]]
 file = "mods/apotheosis.pw.toml"
 hash = "89213937ee347c19bde57055ab13a93e9dd84978363c95810e34dbf44d44e1bc"
 metafile = true
@@ -39,13 +49,38 @@ hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
+file = "mods/artifacts.pw.toml"
+hash = "5a21b57951f08465ee9a49e5a7650655291dd441e8ee114c6a7c7caf0a180527"
+metafile = true
+
+[[files]]
+file = "mods/bellsandwhistles.pw.toml"
+hash = "e1f4a53e3e52b534add5dd018597fefd345d9bd6350b9c46ef0ec281fc62af8e"
+metafile = true
+
+[[files]]
 file = "mods/blockui.pw.toml"
 hash = "05abf6fafe4a8adf5aaa24f09b7dedfbe199a8727d925e816fc608d6357f5ba8"
 metafile = true
 
 [[files]]
+file = "mods/cc-sable.pw.toml"
+hash = "cc686a2a01e80740c102f62c2989ad5e69c675c86c2687b5d49063943506f010"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "0620370193cd76f48ebf81bd0d213cdc3adb5c640d8e39d5758d6f166c0c5036"
+metafile = true
+
+[[files]]
+file = "mods/citadel.pw.toml"
+hash = "c8c78d6b861d3bf2053ac58bb00439d85231b9fdbf72d1ea03fd9035ce09edb7"
+metafile = true
+
+[[files]]
+file = "mods/classicperipherals.pw.toml"
+hash = "5bdced1f43388b1a337de7440180147f2f33d0f530d8cea465b8bbb07c4cdbd1"
 metafile = true
 
 [[files]]
@@ -64,8 +99,18 @@ hash = "c0ce5acc926fd747135f330cb3e53b847e5c05ed950b96f7cbe0d1159aefa285"
 metafile = true
 
 [[files]]
+file = "mods/create-curios-jetpack.pw.toml"
+hash = "b8e662516d509fc3fcc6036955373de4760e3c43093f31117cef927fb7e4e619"
+metafile = true
+
+[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "67a405e6307f900d168deaa954a4309c3b44a6025e4efd7b8e774b6f9d3a69cd"
+metafile = true
+
+[[files]]
+file = "mods/create-liquid-fuel.pw.toml"
+hash = "2af9229718d9edb1eaa4b88fac0063ab2f5f7ba7650a4efa5f0a8e6ce25549cd"
 metafile = true
 
 [[files]]
@@ -81,6 +126,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
@@ -124,6 +174,16 @@ hash = "f9c118b7a66238a7f9e052705e82402e57c7a5b753d62d679b94701ede479752"
 metafile = true
 
 [[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "2ac1df7fad83d36e69b4aaad32f0b952c9b039d7345592bb66934f40a8606224"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-x-curios-api-compat.pw.toml"
+hash = "89321cbcc8789aca2ba0e70cbd3e498de493a5f2b9db51f9c72d65d99c7afee7"
+metafile = true
+
+[[files]]
 file = "mods/iceandfire-ce.pw.toml"
 hash = "3bf33cdda984b2275588cd1b3e0723e3ba2cc817db33d88ffa00c92063a23aa7"
 metafile = true
@@ -146,6 +206,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "5367193d3f87b7bc5a81bcd64a5b96a843e76d4df7a83c8bb7e1911aa82dd52e"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "d42638803adf08a44faa46cc7c491b5026fecdda4b68df25c9e395cb8121d8e4"
 metafile = true
 
 [[files]]
@@ -175,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "bac10dc72e41ee6df7a09ebd7e16e905897d54a2d9cb9f0c3fa14f569bd6d992"
+hash = "e152bb9ae171e9f34c406bbc29dc36c8d8def9d8f913e1a1bbf82bd63d4e8da9"
 metafile = true
 
 [[files]]
@@ -244,18 +309,28 @@ hash = "9f2fff72148af2a06394db56a347632c7089843f8684c51d5eb95a54ca9ef3d6"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-storage-create-integration.pw.toml"
+hash = "3320e914585edf06dc43b406922d4c448b0eae2c9acde9fdebfbbeab8da8870b"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-storage.pw.toml"
 hash = "f56a940476362df4007f7395e26f62fd0a8aace62da5ee0e6a48c9e87f45270b"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "258a77de0a6db4c9ab045cbb240bcf4eac0dbbca3f6bc981fb461e55c247f23f"
+metafile = true
+
+[[files]]
 file = "mods/structurize.pw.toml"
-hash = "c5e57870a5a389d305dd742881d322494c1d40a1bf603e008ca572b6d7edf791"
+hash = "9ef81e3a2eedc119c659940b940e5ab1a1ed6e37fbbc83c3edf53a8ea859aaeb"
 metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
+hash = "51bab6841145462b42ccdd916a52f3403acaf967941caefb28d506839c427936"
 metafile = true
 
 [[files]]
