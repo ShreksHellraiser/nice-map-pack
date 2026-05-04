@@ -80,7 +80,7 @@ metafile = true
 
 [[files]]
 file = "mods/classicperipherals.pw.toml"
-hash = "805528641433e3aa062ab7120ac05e4f60066ac2e60e89c8e1af6fecd8295469"
+hash = "5bdced1f43388b1a337de7440180147f2f33d0f530d8cea465b8bbb07c4cdbd1"
 metafile = true
 
 [[files]]
@@ -136,6 +136,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "e831a491c2948b682a75ddbec6bbdd6cdb1f9f3e4e86f87464ebe8a658c259ff"
 metafile = true
 
 [[files]]
