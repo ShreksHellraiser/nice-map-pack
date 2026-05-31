@@ -1,13 +1,13 @@
 name = "CC: Sable"
-filename = "cc_sable-neoforge-1.2.3.jar"
+filename = "cc_sable-neoforge-1.3.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/OPNBxiZD/versions/RPIcIbOf/cc_sable-neoforge-1.2.3.jar"
+url = "https://cdn.modrinth.com/data/OPNBxiZD/versions/j0UWQoMG/cc_sable-neoforge-1.3.4.jar"
 hash-format = "sha512"
-hash = "83cc13851f0e6056158dd8e29e3518775cd1a4d087b627f2e273be65ce78e8b70c436e4cca6c01e57f332f89f08b82e42fff0955bbafe650993f052fcacaecbe"
+hash = "70e7e09c8a4a566fe8bd67a8d53069083e8285a15cb680412b415f5104b5be3ad3b623c9ccd99f165996933ef5d81aa1966633796d7439f562b6e35ae59af717"
 
 [update]
 [update.modrinth]
 mod-id = "OPNBxiZD"
-version = "RPIcIbOf"
+version = "j0UWQoMG"
